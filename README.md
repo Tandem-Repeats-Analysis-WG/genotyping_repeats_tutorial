@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/{789375751}.svg)](https://zenodo.org/badge/latestdoi/{789375751})
+
 # Tutorial for genotyping STRs from next-generation sequence data
 
 
